@@ -1,3 +1,6 @@
+
+![cover page](https://github.com/user-attachments/assets/9ef76fee-9046-4687-8280-8a718bba981c)
+
 # Galamsey DataViz Project
  ## 🌊 Ghana Beyond Galamsey: A Data-driven Decision Intelligence Monitoring System
 
