@@ -1,4 +1,4 @@
-# Ghana Beyond Galamsey Project.py
+# Ghana Beyond Galamsey Project
 
 # ================================
 # IMPORT LIBRARIES
@@ -13,7 +13,7 @@ import plotly.express as px
 # PAGE CONFIGURATION
 # ================================
 st.set_page_config(
-    page_title="Ghana Water Quality Intelligence Dashboard",
+    page_title="Galamsey Decision Intelligence System",
     layout="wide",
     initial_sidebar_state="expanded"
 )
