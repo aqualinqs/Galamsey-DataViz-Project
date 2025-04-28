@@ -1,5 +1,3 @@
-![alt text](<ChatGPT Image Apr 28, 2025, 03_55_56 AM-1.png>)
-
 # Galamsey DataViz Project
  ## 🌊 Ghana Beyond Galamsey: A Data-driven Decision Intelligence Monitoring System
 
