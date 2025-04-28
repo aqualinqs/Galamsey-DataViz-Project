@@ -1,5 +1,6 @@
 
-![Uploading cover.png…]()
+
+![Uploading ChatGPT Image Apr 28, 2025, 03_55_56 AM.png…]()
 
 # Galamsey DataViz Project
  ## 🌊 Ghana Beyond Galamsey: A Data-driven Decision Intelligence Monitoring System
