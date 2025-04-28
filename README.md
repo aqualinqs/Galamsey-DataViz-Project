@@ -1,7 +1,8 @@
 
+![cover](https://github.com/user-attachments/assets/de82d90b-ac4c-4ee6-9ea5-c90d3566d568)
+
 # Galamsey DataViz Project
  ## 🌊 Ghana Beyond Galamsey: A Data-driven Decision Intelligence Monitoring System
-![Uploading cover page.png…]()
 
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
